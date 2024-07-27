@@ -1,0 +1,3 @@
+I love devops2
+I love devops
+Number of occurrences of 'love': 2
